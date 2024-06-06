@@ -1,0 +1,15 @@
+Received: [2]: send MSG_CLI1 teste
+Sent: Mensagem enviada para MSG_CLI1 com sucesso
+________________
+Received: [1]: askqueue
+Sent: As suas mensagens são:
+0:User 2 (SSI MSG Relay Client 2):08/04/2024-09:25:59:teste
+
+________________
+Received: [1]: getmsg 0
+Sent: b'\x17\x01\x15\x00\x08\x00MSG_CLI1teste teste1\xfa\xb9\xf7\xd2_\x83H\xddEE\xad8d\xcb\xa9\xe8\x0e\xb4d\xe20$\xcf\xab\xa4T\xb8\xed\xb91\xef\xd86MQ\x13t\xd9+\x9dh\xb8\xdeqQ\xb6\xb1rx\x83)\xc4\x8af\x99\x17\ta\x0b\x9c\x9c&X\xda\x18\x8cos\xafp\xf5Ed\xdd\xaa\xe0?U\x80[]\x91d\x1c\xaf\r=\x14k\xc6\xf9\xd1\xb4\x16Zd\x93\xe2\xbf\xf9A\xc7\xf2\xd44\x00I\x04~\xec\x80\xba\xb8}g\x16>\xfb9\x9d\x84\xf2\xb9_\xb4\x93\xdbs\x1b#4\x9d\xc1\xa1\xac\xf7\xd8\xf9\xe2?\xdc;\xaa\x99\x94\x0e\xce\n]_\xae\r\xc1\xdbu\xfa\xe5cw\xda\xe2\xfef[5\xe1tb7z\xf8\\nty\xb8\xae\x9c\x9c#RU}\xeb\x14\xf3{\xf2\xde\x0bn\xa8s\n\x99}\xb5\x1a\x95c\x16\x10w\x14T\xa8\xea%\xa5\x99\xee\xb1\xa7\xee\x12\n\xdb\xcb0\xff\x86\x9d\xa9\xd0\xe6\xeb\xc4\xcf(\x1d\x14\x96\x07\xe6\xf8\xa6b\xb2_3\x8c\xffs\xcc\x9bau\xf0^\x8eGfY\xady-----BEGIN CERTIFICATE-----\nMIIEDDCCAvSgAwIBAgIUIcPQrSSw070JKwXnIEwfeGFc4TMwDQYJKoZIhvcNAQEL\nBQAwgZ0xCzAJBgNVBAYTAlBUMQ4wDAYDVQQIDAVNaW5obzEOMAwGA1UEBwwFQnJh\nZ2ExHjAcBgNVBAoMFVVuaXZlcnNpZGFkZSBkbyBNaW5obzEeMBwGA1UECwwVU1NJ\nIE1TRyBSRUxBWSBTRVJWSUNFMR0wGwYDVQQDDBRNU0cgUkVMQVkgU0VSVklDRSBD\nQTEPMA0GA1UEQQwGTVNHX0NBMB4XDTI0MDMwNzIzMTI1MloXDTI0MDYxNTIzMTI1\nMlowgaoxCzAJBgNVBAYTAlBUMQ4wDAYDVQQIDAVNaW5obzEOMAwGA1UEBwwFQnJh\nZ2ExHjAcBgNVBAoMFVVuaXZlcnNpZGFkZSBkbyBNaW5obzEeMBwGA1UECwwVU1NJ\nIE1TRyBSRUxBWSBTRVJWSUNFMSgwJgYDVQQDDB9Vc2VyIDIgKFNTSSBNU0cgUmVs\nYXkgQ2xpZW50IDIpMREwDwYDVQRBDAhNU0dfQ0xJMjCCASIwDQYJKoZIhvcNAQEB\nBQADggEPADCCAQoCggEBALLOg1yfHwlihj/1osoSLs+D1KSwbk+DEfUILZMhX6XY\nerZ8IYYnlnUKCaTEDDEcmFRiSOEu4s8Fx2gFuqltf9Rk8JbRF+E3bVL60AIo+YCa\nOIwiBUWxdwpebqAZR2mEPqMISYVXCkWDsGtzbmjY+ut1aCkFyslfDuscNhxx98el\nclIVe8F6PLZo40cmE84/TXOG5W0F28XftWqaGld65n1q/We6E/EWuIQYCWDPg2TO\n/zuMc5Fi3hmV8I9G4P1Z1D4JaEbsQsCq7Kmw4W5mbCDxYmuWsVz1Vulk8vgsxiSC\nkVhy3Qd3XocaX6OsURcYSry8T6JlIt8HI6JP8Z9BZEsCAwEAAaM1MDMwDAYDVR0T\nAQH/BAIwADAOBgNVHQ8BAf8EBAMCBsAwEwYDVR0lBAwwCgYIKwYBBQUHAwIwDQYJ\nKoZIhvcNAQELBQADggEBAHQCVjhRlKPrmnFt+hAFQJNtwy2VMHgqycgcBCxIY0EO\njfTOHnfhI10BBLqdRXxPAXfrL5t8VyZHug8fxAcPRmet3XCqtUyleYBwy40gqwuB\nud/I2uKn5TEUGXssdRy6GBRMyu1FkpJRPZLLIfyozHX1831bWNhy/i/Mn1lAndzg\nUJ7f370m3VAcDdLu5nVFH7T0PPVEeJ9nVnHZbpGRoL1y7GPjnWn/W65o70E5F6Pp\naiu13sqXD0zMd3rAeou2Aa+lCziVtcAWvyJDuDYlyRDp8N9iNrtnMtScw71amfiS\ncC5ITIAzLLYOjsZB9D9tSklg22Ak2WXJuTAp3yx73DE=\n-----END CERTIFICATE-----\n'
+________________
+Received: [1]: askqueue
+Sent: As suas mensagens são:
+
+________________

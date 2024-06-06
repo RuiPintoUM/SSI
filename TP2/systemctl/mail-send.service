@@ -1,0 +1,13 @@
+[Unit]
+Description=Write Message Daemon
+After=network.target
+
+[Service]
+ExecStart=/home/ricardo/Desktop/SSI/repository_github3/2324-G42/TPs/TP2/bin/mail-queue
+Restart=always
+Environment=MAIL_QUEUE_DIR=/home/concordia/queue
+Environment=MAIL_GRUPOS_DIR=/home/concordia/Grupos
+Environment=MAIL_SPAWN_FIFO=/var/tmp/mail_spawn_fifo
+
+[Install]
+WantedBy=multi-user.target
